@@ -1,0 +1,12 @@
+# Java
+*.class
+*.jar
+*.war
+*.ear
+target/
+
+# IntelliJ IDEA
+.idea/
+*.iml
+*.iws
+*.ipr
